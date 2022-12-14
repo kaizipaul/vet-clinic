@@ -6,5 +6,6 @@ id SERIAL PRIMARY KEY,
  date_of_birth DATE,
  escape_attempts INT,
  neutered BOOLEAN,
- weight_kg NUMERIC 
+ weight_kg NUMERIC,
+ species TEXT 
 );
