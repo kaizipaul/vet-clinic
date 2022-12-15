@@ -1,38 +1,118 @@
-# Vet Clinic
 
-> This is a database made for learning purposes to figure out the basics of SQL.
+# 📗 Table of Contents
 
-## Getting Started
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-This repository includes files with plain SQL that can be used to recreate a database:
+<!-- PROJECT DESCRIPTION -->
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+# 📖 [Vet Clinic] <a name="about-project"></a>
 
+VetClinic is a database storing pets, their owners and the vets with various queries performed to analyze the data.
 
-## Authors
+## 🛠 Built With <a name="built-with"></a>
 
-👤 **Paul Kaizirege Vedasto**
+### Tech Stack <a name="tech-stack"></a>
+
+> The project is built on the following tech stack:
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>SQL</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>LocalHost</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- Data tables
+- Primary and Foreign Keys.
+- Join tables.
+- Data Queries.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone git@github.com:kaizipaul/vet-clinic.git
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Paul K Vedasto**
 
 - GitHub: [@kaizipaul](https://github.com/kaizipaul)
 - LinkedIn: [kaizipaul](https://linkedin.com/in/kaizipaul)
-## 🤝 Contributing
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+> Write a message to encourage readers to support your project
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project...
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./MIT.md) licensed.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse Inc for this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
