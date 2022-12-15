@@ -59,13 +59,10 @@ VetClinic is a database storing pets, their owners and the vets with various que
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+>To get a local copy up and running, follow these steps.
 
 ### Setup
 
@@ -97,9 +94,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give it a star ⭐
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
